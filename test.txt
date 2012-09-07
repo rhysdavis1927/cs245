@@ -1,0 +1,7 @@
+i see the a, the b,the c, the d.
+the a is 500m north of the b.
+the a is 500m east of the b.
+the c is 1 km north of the d.
+the c is 1 km west of the d.
+the b is 1 miles north of the c.
+the b is 2 miles west of the c.
